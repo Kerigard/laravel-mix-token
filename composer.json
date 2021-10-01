@@ -1,0 +1,24 @@
+{
+    "name": "kerigard/laravel-mix-token",
+    "description": "Tracking changes in files generated with Laravel Mix",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vladislav Sidelnikov",
+            "email": "kerihoros@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^7.2|^8.0"
+    },
+    "autoload": {
+        "files": [
+            "src/helpers.php"
+        ],
+        "psr-4": {
+            "Kerigard\\MixToken\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}

@@ -1,6 +1,7 @@
 # LaravelMixToken
 
 <p align="center">
+  <a href="https://github.com/Kerigard/laravel-mix-token/actions"><img src="https://github.com/Kerigard/laravel-mix-token/workflows/tests/badge.svg" alt="Build Status"></a>
   <a href="https://packagist.org/packages/Kerigard/laravel-mix-token"><img src="https://img.shields.io/packagist/dt/Kerigard/laravel-mix-token" alt="Total Downloads"></a>
   <a href="https://packagist.org/packages/Kerigard/laravel-mix-token"><img src="https://img.shields.io/packagist/v/Kerigard/laravel-mix-token" alt="Latest Stable Version"></a>
   <a href="https://packagist.org/packages/Kerigard/laravel-mix-token"><img src="https://img.shields.io/packagist/l/Kerigard/laravel-mix-token" alt="License"></a>

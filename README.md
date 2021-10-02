@@ -56,6 +56,10 @@ instance.interceptors.response.use(
 )
 ```
 
+## Change log
+
+Please see the [CHANGELOG](CHANGELOG.md) for more information on what has changed recently.
+
 ## License
 
 MIT. Please see the [LICENSE FILE](LICENSE.md) for more information.

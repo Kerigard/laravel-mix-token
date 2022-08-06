@@ -1,6 +1,6 @@
 <?php
 
-if (!function_exists('mix_token')) {
+if (! function_exists('mix_token')) {
     /**
      * Create mix token.
      *

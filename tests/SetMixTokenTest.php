@@ -3,8 +3,8 @@
 namespace Kerigard\MixToken\Tests;
 
 use Illuminate\Http\Request;
-use Orchestra\Testbench\TestCase;
 use Kerigard\MixToken\SetMixHeader;
+use Orchestra\Testbench\TestCase;
 
 class SetMixTokenTest extends TestCase
 {
